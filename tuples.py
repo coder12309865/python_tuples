@@ -1,2 +1,3 @@
-thistuple = ("a")
+thistuple = ("a",)
+
 print(type(thistuple))
